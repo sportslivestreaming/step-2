@@ -5,10 +5,6 @@
     <title>title</title>
   </head>
   <body>
-  
-  <script src="//www.locked1.com/captchalocker/js/captcha.js.php?id=616690cbc320d3e9a2a08c6463bb4505"></script>
-
-
-  
-  </body>
+<script type="text/javascript" id="ogjs" src="https://www.clickfam.com/contentlockers/load.php?id=39ecb4fb50972441347334607d85e50a"></script>
+</body>
 </html>
